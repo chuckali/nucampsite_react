@@ -21,9 +21,3 @@ root.render(
   </React.StrictMode>
 );
 
-Submit the following 5 files:
-CampsiteCard.js
-CampsitesList.js
-App.js
-Header.js
-Footer.js
