@@ -30,3 +30,5 @@ const AnimatedDisplayCard = ({ item }) => {
 };
 
 export default AnimatedDisplayCard;
+
+
