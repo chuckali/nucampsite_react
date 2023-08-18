@@ -2,6 +2,7 @@ import { Container, Col, Row } from 'reactstrap';
 import SubHeader from '../components/SubHeader';
 import ContactForm from '../components/ContactForm';
 
+
 const ContactPage = () => {
     return (
         <Container>
