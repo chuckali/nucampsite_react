@@ -7,6 +7,7 @@ import CampsitesDirectoryPage from './pages/CampsitesDirectoryPage';
 import './App.css';
 import CampsiteDetailPage from './pages/CampsiteDetailPage';
 import AboutPage from './pages/AboutPage'
+import React from 'react';
 
 
 function App() {
