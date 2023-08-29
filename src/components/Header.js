@@ -9,6 +9,7 @@ import {
 } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
 import NuCampLogo from '../app/assets/img/logo.png';
+import React from 'react';
 
 const Header = () => {
     const [menuOpen, setMenuOpen] = useState(false);

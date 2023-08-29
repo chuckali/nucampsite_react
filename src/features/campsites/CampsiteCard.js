@@ -1,5 +1,6 @@
 import { Card, CardImg, CardImgOverlay, CardTitle } from 'reactstrap';
 import { Link } from 'react-router-dom';
+import React from 'react';
 
 
 const CampsiteCard = ({ campsite }) => {

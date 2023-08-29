@@ -5,6 +5,7 @@ import { selectCampsiteById } from '../features/campsites/campsitesSlice';
 import CampsiteDetail from '../features/campsites/CampsiteDetail';
 import CommentsList from '../features/comments/CommentsList';
 import SubHeader from '../components/SubHeader';
+import React from 'react';
 
 const CampsiteDetailPage = () => {
     const { campsiteId } = useParams();

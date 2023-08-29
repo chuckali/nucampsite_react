@@ -5,6 +5,7 @@ import { selectFeaturedCampsite } from '../campsites/campsitesSlice'
 import { selectFeaturedPromotion } from '../promotions/promotionsSlice'
 import { selectFeaturedPartner } from '../partners/partnersSlice'
 import AnimatedDisplayCard from './AnimatedDisplayCard'
+import React from 'react';
 
 const DisplayList = () => {
     const items = useSelector((state) => [

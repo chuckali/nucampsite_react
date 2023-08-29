@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap';
 import { useSpring, animated } from 'react-spring';
+import React from 'react';
 
 const AnimatedDisplayCard = ({ item }) => {
     const { image, name, description } = item;
